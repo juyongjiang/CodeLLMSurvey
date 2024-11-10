@@ -44,7 +44,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Paper](#paper)
   - [Pre-Training \& Foundation Model](#pre-training--foundation-model)
   - [Instruction Tuning \& Parameter-Efficient Fine-tuning](#instruction-tuning--parameter-efficient-fine-tuning)
