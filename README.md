@@ -26,7 +26,7 @@
 > 
 > A curated collection of papers and resources on Large Language Models for Code Generation.
 > 
-> Please refer to our survey [**"A Survey on Large Language Models for Code Generation"**](https://arxiv.org/abs/2406.00515) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm.svg)](https://arxiv.org/abs/2406.00515)
+> Please refer to our survey [**"A Survey on Large Language Models for Code Generation"**](https://arxiv.org/abs/2406.00515) for the detailed contents. [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2406.00515)
 > 
 > Please let us know if you discover any mistakes or have suggestions by emailing us: csjuyongjiang@gmail.com
 > 
