@@ -11,7 +11,16 @@
   </a>
 </div>
 
-![](assets/codellms.png)
+<!-- ![](assets/codellms.png) -->
+<p align="center" width="100%">
+  <img src="assets/codellms.png" alt="Code LLMs Workflow" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+  <br>
+  A diagram illustrating the general training and inference workflow for Code LLMs and their associated databases. 
+  The training workflow is mainly divided into four distinct stages: 
+  Stage ① and ② are the pre-training phase, whereas Stages ③ and ④ represent the post-training phases. It is important to note that Stage ② and ④ are optional. 
+  For instance, StarCoder incorporates only Stage ①. WizardCoder, fine-tuned upon StarCoder, includes only Stage ③, while Code Llama, continually pre-trained on Llama 2, encompasses Stages ② and ③. DeepSeek-Coder-V2, continually pre-trained on DeepSeek-V2, covers Stages ②, ③, and ④. 
+  Note that pre-trained model can be directly used for inference by prompt engineering.
+</p>
 
 > [!IMPORTANT]
 > 
@@ -318,7 +327,12 @@
 
 ### Applications
 
-![GitHub Copilot within Visual Studio Code (VS Code)](assets/github_copilot.jpg)
+<!-- ![GitHub Copilot within Visual Studio Code (VS Code)](assets/github_copilot.jpg) -->
+<p align="center" width="100%">
+  <img src="assets/github_copilot.jpg" alt="GitHub Copolot" style="width: 90%; min-width: 100px; display: block; margin: auto;">
+  <br>
+  GitHub Copilot within Visual Studio Code (VS Code).
+</p>
 
 > [!NOTE]
 > 
