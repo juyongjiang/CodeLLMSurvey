@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:robot: A Survey on Large Language Models for Code Generation</h1>
+  <h1>:robot: A Survey on LLMs for Code Generation</h1>
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
@@ -44,7 +44,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Paper](#paper)
   - [Pre-Training \& Foundation Model](#pre-training--foundation-model)
   - [Instruction Tuning \& Parameter-Efficient Fine-tuning](#instruction-tuning--parameter-efficient-fine-tuning)
