@@ -134,6 +134,7 @@
   - Astraios: Parameter-Efficient Instruction Tuning Code Large Language Models, `arXiv`, 2024
 
 ### Reinforcement Learning with Feedback
+  - Aligning Crowd-sourced Human Feedback for Code Generation with Bayesian Inference, `IEEE CAI`, 2024.
   - Large Language Model for Verilog Generation with Golden Code Feedback, `arXiv`, 2024
   - Sketch Then Generate: Providing Incremental User Feedback and Guiding {LLM} Code Generation through Language-Oriented Code Sketches, `arXiv`, 2024
   - Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement, `CVPR`, 2024
