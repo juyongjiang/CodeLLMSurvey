@@ -23,6 +23,7 @@
 </p>
 
 > [!IMPORTANT]
+> **Good news! :tada: Our survey paper has been successfully accepted by TOSEM. :fire::fire::fire:**
 > 
 > A curated collection of papers and resources on Large Language Models for Code Generation.
 > 
